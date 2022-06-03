@@ -1,8 +1,6 @@
 Hello, my name is Lesnar Dsilva
 
-My currenty interests are HTML, CSS and JavaScript. I am pursuiting projects that challenge me as a front-end developer by creating web apps such as a calculator.
-
-I am learning JavaScript along the way as I develop these apps.
+I have learned HTML 5, CSS 3 and ECMAScript 2021 (JavaScript) in 2021, I now in 2022 have experience in Python, Java and I am currently learning C#.
 
 Contact Information:
 lesnar.dsilva@gmail.com
