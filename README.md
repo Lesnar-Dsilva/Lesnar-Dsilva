@@ -1,5 +1,1 @@
-Hello, my name is Lesnar Dsilva
-
-I have experience with C, C#, C++, Rust, Java, Kotlin, PHP, Python, JavaScript, SQL, and Shell (BASH & PowerShell).
-
-I use Windows and Linux (Cybersecurity Penetration Testing).
+I am a proactive and detail-oriented individual with 6 years of experience in IT, specializing in self-taught skills such as Mathematics, Machine Learning, Robotics (Mechanics), MATLAB, and CAD. I excel at working independently, but I am also highly collaborative, capable of managing workloads and prioritizing tasks in time-sensitive environments. I thrive in challenging topics that expand my knowledge and expertise.
